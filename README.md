@@ -10,8 +10,8 @@ The predeterminated one shows regexp for "siiii.ru" domain and 31.31.205.163. (s
 
 ## Starting
 ```
-pip install -r requirements.txt
-python ./main.py
+$ pip install -r requirements.txt
+$ python ./main.py
 ```
 
 ## Output
